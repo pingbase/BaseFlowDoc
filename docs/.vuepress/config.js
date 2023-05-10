@@ -30,6 +30,7 @@ module.exports = {
       }
     ]
   },
+  base: "/BaseFlowDoc/",
   locales: {
     '/': {
       lang: 'zh-CN'
