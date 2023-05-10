@@ -2,4 +2,4 @@
 
 # Docs for BaseFlow!
 
-[体验一下] (https://www.pingbase.cn/baseflow/) BaseFlow~
+[体验一下](https://www.pingbase.cn/baseflow/) BaseFlow~
